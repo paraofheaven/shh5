@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {},
+    "newLine": "LF",
+    "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "allowJs": false,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "preserveConstEnums": true,
+    "outDir": "build",
+    "sourceMap": false,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "jsx": "preserve",
+    "noUnusedLocals": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "removeComments": false,
+    "experimentalDecorators": false,
+    "rootDir": ".",
+    "target": "esnext",
+    "module": "esnext"
+  },
+  "include": [
+    "src",
+    "tests",
+    "typings",
+    "__tests__"
+  ]
+}
