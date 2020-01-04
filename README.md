@@ -1,1 +1,1 @@
-venus generator react.js
+venus generator react programe
