@@ -1,1 +1,1 @@
-venus generator react programe
+venus generator react project
